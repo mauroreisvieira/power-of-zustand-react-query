@@ -52,7 +52,7 @@ Create a pull request, address an issue, or suggest new features or improvements
 
 ## License
 
-This project is licensed under the _MIT License_ - see the [LICENSE.md](./LICENSE.md)) file for details.
+This project is licensed under the _MIT License_ - see the [LICENSE.md](./LICENSE.md) file for details.
 
 ---
 
