@@ -18,7 +18,7 @@ export function Users(): React.ReactElement {
 
   useEffect(() => {
     if (!data) return;
-    setUsers(data);
+    setUsers(data.sort((a,b) => a.name.localeCompare(b.name)));
   }, [data, setUsers]);
 
   if (isLoading) {
